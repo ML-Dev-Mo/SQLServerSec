@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+ <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+<file name="Tiny.ocx">
+<typelib
+tlbid="{DF1D4B1E-D56E-4A40-BA98-2CC06080E796}"
+version="1.0"
+helpdir=""/>
+<comClass description=""
+clsid="{0CA5A93D-F6BD-4398-809A-9F767276EF77}"
+progid="TINY.TinyCtrl.1"
+threadingModel="Apartment"
+tlbid="{DF1D4B1E-D56E-4A40-BA98-2CC06080E796}" />
+
+</file>
+</assembly>
